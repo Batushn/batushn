@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=00E5FF&width=600&lines=Hello+👋+I'm+Batu;Technical+Artist+%26+Game+Developer;Building+Games+%26+Systems+That+Feel+Real)
 
-**Technical Artist & Game Developer from Turkey 🇹🇷**
+**Game Developer | Engineer | Technical Artis from Turkey 🇹🇷**
 
 ---
 
